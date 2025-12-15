@@ -61,7 +61,7 @@ class DataIngestion:
             )
             logging.info("Performed train test split on the dataframe")
 
-            logging.info("" \
+            logging.info(
             "Exited split_data_as_train_test method of Data_Ingestion class")
 
             dir_path = os.path.dirname(self.data_ingestion_config.traing_file_path)
