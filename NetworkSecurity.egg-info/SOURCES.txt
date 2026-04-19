@@ -22,6 +22,8 @@ networksecurity/exception/expection.py
 networksecurity/logging/__init__.py
 networksecurity/logging/logger.py
 networksecurity/pipline/__init__.py
+networksecurity/pipline/batch_prediction.py
+networksecurity/pipline/training_pipeline.py
 networksecurity/utils/__init__.py
 networksecurity/utils/main_utils/__init__.py
 networksecurity/utils/main_utils/utils.py
